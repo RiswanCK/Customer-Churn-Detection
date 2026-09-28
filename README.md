@@ -171,5 +171,3 @@ This project demonstrates how **Exploratory Data Analysis can be used to underst
 Data Science Enthusiast | Python | SQL | Power BI | Excel
 
 ---
-
-⭐ If you found this project useful, consider giving the repository a star!
